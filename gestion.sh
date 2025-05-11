@@ -1,4 +1,5 @@
 #!/bin/bash
+# Ceci est un programme permettant de gerer les fichiers
 #region fonction creation du fichier
 create_file() {
 echo "----------------------------------------------------------------------"
